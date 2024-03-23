@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "cf5fd1254a674a41",
+    "type": "split",
+    "children": [
+      {
+        "id": "2767d0a7cffc5435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f29ad61b8d6216c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "files/Pasted image 20240304182330.png"
+              }
+            }
+          },
+          {
+            "id": "883e0ebc153e22b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0b2c8dbda2b9770",
+    "type": "split",
+    "children": [
+      {
+        "id": "db1e49e8f979d689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d08bff8cc0eb12e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18e9cc9e28cc7f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c61cf9a0c3429cc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8c6b8cd93d2964c",
+    "type": "split",
+    "children": [
+      {
+        "id": "043597755f42c4d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a72461c2fe8307c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "454d88a83ad4ab15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f5e25c34cb3cea4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6bfd86a2449666e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7d08bff8cc0eb12e",
+  "lastOpenFiles": [
+    "1. tech skills/books/Столяров",
+    "1. tech skills/books",
+    "1. tech skills/0. Архитектура/0. Проектирование API/index.md",
+    "1. tech skills/1. Языки программирования/5. Golang/GRPC/index.md",
+    "1. tech skills/0. Архитектура/0. Проектирование API",
+    "1. tech skills/1. Языки программирования/5. Golang/Собесы/Вопросы.md",
+    "1. tech skills/1. Языки программирования/5. Golang/GRPC",
+    "1. tech skills/7. Проектирование ПО/3. Паттерны проектирования/Техники ООП.md",
+    "1. tech skills/1. Языки программирования/5. Golang/Собесы",
+    "1. tech skills/8. Алгоритмы и структуры данных/Алгоритмы/Сортировки/Сортировка пузырьком.md",
+    "1. tech skills/8. Алгоритмы и структуры данных/Алгоритмы/Сортировки/Сортировка выбором.md",
+    "1. tech skills/8. Алгоритмы и структуры данных/Алгоритмы/Сортировки/Сортировка вставкой.md",
+    "1. tech skills/8. Алгоритмы и структуры данных/Алгоритмы/Сортировки/Без названия",
+    "1. tech skills/Конспекты видео/ШБР/Введение в бекенд.md",
+    "1. tech skills/8. Алгоритмы и структуры данных/Алгоритмы/Сортировки",
+    "1. tech skills/8. Алгоритмы и структуры данных/Алгоритмы",
+    "1. tech skills/8. Алгоритмы и структуры данных",
+    "1. tech skills/Конспекты видео/ШБР/Архитектура кода (Go).md",
+    "files/Pasted image 20240306064428.png",
+    "files/Pasted image 20240304182330.png",
+    "1. tech skills/Конспекты видео/ШБР",
+    "1. tech skills/Конспекты видео",
+    "files/Pasted image 20240304182423.png",
+    "1. tech skills/7. Проектирование ПО/4. Архитектура приложений/index.md",
+    "1. tech skills/7. Проектирование ПО/4. Архитектура приложений/Без названия.md",
+    "1. tech skills/7. Проектирование ПО/3. Паттерны проектирования/Порождающие/index.md",
+    "1. tech skills/7. Проектирование ПО/1. Принципы ООП/index.md",
+    "1. tech skills/7. Проектирование ПО/2. Принциы SOLID/Другие принципы/YAGNI.md",
+    "1. tech skills/7. Проектирование ПО/2. Принциы SOLID/Без названия.md",
+    "1. tech skills/7. Проектирование ПО/2. Принциы SOLID/Другие принципы/DRY.md",
+    "1. tech skills/7. Проектирование ПО/2. Принциы SOLID/Другие принципы/KISS.md",
+    "1. tech skills/7. Проектирование ПО/3. Паттерны проектирования/Организации каталога паттернов.md",
+    "files/Pasted image 20240304182317.png",
+    "files/Pasted image 20240304181740.png",
+    "files/Pasted image 20240304181332.png",
+    "files/Pasted image 20240304181156.png",
+    "1. tech skills/7. Проектирование ПО/3. Паттерны проектирования/index.md",
+    "1. tech skills/1. Языки программирования/5. Golang/Основы/Типы данных/Нечисловые типы данных.md",
+    "1. tech skills/1. Языки программирования/5. Golang/Основы/Типы данных/Числовые типы данных.md",
+    "files/Pasted image 20240303171459.png",
+    "1. tech skills/1. Языки программирования/5. Golang/Основы/Типы данных/Тип данных error.md",
+    "1. tech skills/1. Языки программирования/5. Golang/Основы/Типы данных/Slice.md",
+    "1. tech skills/1. Языки программирования/5. Golang/Основы/Типы данных.md",
+    "1. tech skills/1. Языки программирования/5. Golang/Компилятор/Выделение памяти.md"
+  ]
+}
